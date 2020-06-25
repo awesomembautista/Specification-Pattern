@@ -1,0 +1,13 @@
+C:\Users\markj\source\repos\SpecificationPattern\SpecificationPattern\obj\Debug\netcoreapp3.1\SpecificationPattern.csprojAssemblyReference.cache
+C:\Users\markj\source\repos\SpecificationPattern\SpecificationPattern\obj\Debug\netcoreapp3.1\SpecificationPattern.AssemblyInfoInputs.cache
+C:\Users\markj\source\repos\SpecificationPattern\SpecificationPattern\obj\Debug\netcoreapp3.1\SpecificationPattern.AssemblyInfo.cs
+C:\Users\markj\source\repos\SpecificationPattern\SpecificationPattern\obj\Debug\netcoreapp3.1\SpecificationPattern.csproj.CoreCompileInputs.cache
+C:\Users\markj\source\repos\SpecificationPattern\SpecificationPattern\bin\Debug\netcoreapp3.1\SpecificationPattern.exe
+C:\Users\markj\source\repos\SpecificationPattern\SpecificationPattern\bin\Debug\netcoreapp3.1\SpecificationPattern.deps.json
+C:\Users\markj\source\repos\SpecificationPattern\SpecificationPattern\bin\Debug\netcoreapp3.1\SpecificationPattern.runtimeconfig.json
+C:\Users\markj\source\repos\SpecificationPattern\SpecificationPattern\bin\Debug\netcoreapp3.1\SpecificationPattern.runtimeconfig.dev.json
+C:\Users\markj\source\repos\SpecificationPattern\SpecificationPattern\bin\Debug\netcoreapp3.1\SpecificationPattern.dll
+C:\Users\markj\source\repos\SpecificationPattern\SpecificationPattern\bin\Debug\netcoreapp3.1\SpecificationPattern.pdb
+C:\Users\markj\source\repos\SpecificationPattern\SpecificationPattern\obj\Debug\netcoreapp3.1\SpecificationPattern.dll
+C:\Users\markj\source\repos\SpecificationPattern\SpecificationPattern\obj\Debug\netcoreapp3.1\SpecificationPattern.pdb
+C:\Users\markj\source\repos\SpecificationPattern\SpecificationPattern\obj\Debug\netcoreapp3.1\SpecificationPattern.genruntimeconfig.cache
